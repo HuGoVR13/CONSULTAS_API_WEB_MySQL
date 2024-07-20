@@ -12,13 +12,13 @@ Clases y modelos que lo componen...
 
 Contiene cada Mapping y Endpoints que procesaras las respuestas Http
 
-# - /Api/Productos: Listara todos los productos que contenga nuestra base de datos
+- /Api/Productos: Listara todos los productos que contenga nuestra base de datos
 
-# - /Api/Productos/Id: Buscara el producto por su numero Id
+- /Api/Productos/Id: Buscara el producto por su numero Id
 
-# - /Api/Productos/search: Buscara el producto por el nombre que especifiquemos
+- /Api/Productos/search: Buscara el producto por el nombre que especifiquemos
 
-# - /Api/Productos/searchbyPrecio: Listara los productos en un rango de menor precio a mayor precio que digitemos
+- /Api/Productos/searchbyPrecio: Listara los productos en un rango de menor precio a mayor precio que digitemos
 
 
 ![image](https://github.com/user-attachments/assets/1c00e2dc-9edc-49a9-9c13-6df7c1286850)
